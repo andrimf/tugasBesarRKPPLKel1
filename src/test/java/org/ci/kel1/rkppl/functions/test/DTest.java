@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package org.ci.kel1.rkppl.test;
+package org.ci.kel1.rkppl.functions.test;
 
 import static junit.framework.Assert.assertSame;
 import org.ci.kel1.rkppl.functions.D;
