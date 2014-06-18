@@ -8,7 +8,7 @@ import org.ci.kel1.rkppl.interfaces.MulAndDivInterface;
 
 /**
  *
- * @author Stare
+ * @author Andri Muhammad Ferdian (113040163)
  */
 public class B implements MulAndDivInterface {
 

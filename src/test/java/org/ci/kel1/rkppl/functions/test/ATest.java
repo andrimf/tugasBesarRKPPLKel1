@@ -9,7 +9,7 @@ import org.ci.kel1.rkppl.functions.A;
 
 /**
  *
- * @author Stare
+ * @author Andri Muhammad Ferdian (113040163)
  */
 public class ATest {
     private A a;

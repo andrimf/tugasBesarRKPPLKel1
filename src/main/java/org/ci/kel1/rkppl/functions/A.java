@@ -8,7 +8,7 @@ import org.ci.kel1.rkppl.interfaces.AddAndSubInterface;
 
 /**
  *
- * @author Stare
+ * @author Andri Muhammad Ferdian (113040163)
  */
 public class A implements AddAndSubInterface {
 

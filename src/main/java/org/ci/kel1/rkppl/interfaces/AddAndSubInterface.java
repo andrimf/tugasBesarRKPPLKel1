@@ -6,7 +6,7 @@ package org.ci.kel1.rkppl.interfaces;
 
 /**
  *
- * @author Stare
+ * @author Andri Muhammad Ferdian (113040163)
  */
 public interface AddAndSubInterface {
 
