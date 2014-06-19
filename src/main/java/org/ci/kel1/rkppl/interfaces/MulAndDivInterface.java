@@ -8,7 +8,7 @@ package org.ci.kel1.rkppl.interfaces;
 
 /**
  *
- * @author jayanudin
+ * @author Jayanudin (113040030)
  */
 public interface MulAndDivInterface {
     public double mul(double m1, double m2);

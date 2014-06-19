@@ -8,7 +8,7 @@ package org.ci.kel1.rkppl.interfaces;
 
 /**
  *
- * @author jayanudin
+ * @author Jayanudin (113040030)
  */
 public interface PowInterfaces extends MulAndDivInterface{
     public double pow(double n1, double n2);

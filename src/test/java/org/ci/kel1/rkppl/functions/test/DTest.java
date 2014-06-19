@@ -10,7 +10,7 @@ import org.ci.kel1.rkppl.functions.D;
 
 /**
  *
- * @author jayanudin
+ * @author Jayanudin (113040030)
  */
 public class DTest {
 
