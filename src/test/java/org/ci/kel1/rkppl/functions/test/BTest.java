@@ -11,6 +11,7 @@ import org.ci.kel1.rkppl.functions.B;
  *
  * @author Andri Muhammad Ferdian (113040163)
  */
+
 public class BTest {
     private B b;
 
