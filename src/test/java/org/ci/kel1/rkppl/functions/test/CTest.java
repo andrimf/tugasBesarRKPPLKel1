@@ -23,7 +23,7 @@ public class CTest {
     
     @Test
     public void modTest1(){
-        Assert.assertEquals("Harusnya Benar",0, c.mod(4, 2));
+        Assert.assertEquals("Harusnya Benar",1, c.mod(4, 2));
     }
 
     @Test
